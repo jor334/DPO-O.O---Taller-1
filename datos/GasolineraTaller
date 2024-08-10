@@ -1,0 +1,13 @@
+tipo:ACPM:14000:20000.0
+tipo:Gasolina E10:14000:10000.0
+tipo:Gasolina Regular:12000:10000.0
+tipo:Gasolina Premiun:16000:15000.0
+surtidor:Jose luis:ACPM:0.0:Gasolina E10:0.0:Gasolina Regular:0.0:Gasolina Premiun:0.0
+surtidor:Juan Camilo perez:ACPM:0.0:Gasolina E10:0.0:Gasolina Regular:0.0:Gasolina Premiun:0.0
+surtidor:santiago gomez:ACPM:0.0:Gasolina E10:0.0:Gasolina Regular:0.0:Gasolina Premiun:0.0
+surtidor:Juan David Garcia:ACPM:0.0:Gasolina E10:0.0:Gasolina Regular:0.0:Gasolina Premiun:0.0
+empleado:Juan Jose Ortiz:0
+empleado:Jose luis:0
+empleado:Juan David Garcia:0
+empleado:Juan Camilo perez:0
+empleado:santiago gomez:0
